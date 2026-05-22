@@ -176,5 +176,3 @@ yt clone/
 This project is for educational purposes and demonstrates modern web development techniques. Not affiliated with YouTube or Google.
 
 ---
-
-**Built with ❤️ using vanilla JavaScript, HTML5, and CSS3**
