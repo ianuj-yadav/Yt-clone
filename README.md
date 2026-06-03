@@ -156,7 +156,6 @@ yt clone/
 ## 🎭 Browser Support
 
 - Chrome 80+
-- Firefox 75+
 - Safari 13+
 - Edge 80+
 
