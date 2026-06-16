@@ -1,4 +1,4 @@
-# YouTube Clone - Enhanced Version
+# YouTube Clone
 
 A fully functional YouTube clone built with HTML, CSS, and JavaScript featuring modern UI/UX, dark mode, video player, comments, and more!
 
