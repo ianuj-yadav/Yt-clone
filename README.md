@@ -175,3 +175,20 @@ yt clone/
 This project is for educational purposes and demonstrates modern web development techniques. Not affiliated with YouTube or Google.
 
 ---
+
+
+## 👨‍💻 Author
+
+**Anuj Yadav**
+
+GitHub: https://github.com/ianuj-yadav
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a **Star ⭐** on GitHub.
+
+---
+
+### Made by ❤️ by Anuj Yadav
