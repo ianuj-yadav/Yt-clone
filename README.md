@@ -74,7 +74,7 @@ yt clone/
 - **Filtering**: Category-based filtering
 - **Load More**: Infinite scroll simulation
 
-### **Video Player Modal**
+### **Video Player Model**
 - **Full Player**: HTML5 video with controls
 - **Video Details**: Title, views, upload date
 - **Channel Info**: Avatar, name, subscribers
